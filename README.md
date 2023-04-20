@@ -1,4 +1,4 @@
-#**War Game with OOP**
+# WAR GAME 
 
 **What can player do?**
 
