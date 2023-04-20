@@ -1,5 +1,8 @@
-#War Game with OOP
+#**War Game with OOP**
+
 **What can player do?**
+
+
 The player first chooses a character by looking at their attributes such as health, damage power, how much money they have and etc.
 
 Travel between locations with that character.
